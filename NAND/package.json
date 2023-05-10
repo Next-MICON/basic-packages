@@ -1,0 +1,20 @@
+{
+  "class": "hardware",
+  "pin": [
+    {
+      "name": "in0",
+      "direct": "in",
+      "size": 1
+    },
+    {
+      "name": "in1",
+      "direct": "in",
+      "size": 1
+    },
+    {
+      "name": "out",
+      "direct": "out",
+      "size": 1
+    }
+  ]
+}
